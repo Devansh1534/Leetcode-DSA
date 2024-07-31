@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
