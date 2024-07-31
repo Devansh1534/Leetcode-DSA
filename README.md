@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -31,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 ## Tree
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
