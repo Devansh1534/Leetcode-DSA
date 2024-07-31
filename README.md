@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
