@@ -36,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -74,5 +75,6 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
