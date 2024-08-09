@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 ## Breadth-First Search
 |  |
@@ -87,4 +91,12 @@
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
