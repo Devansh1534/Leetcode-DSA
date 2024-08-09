@@ -14,7 +14,7 @@ public:
             }
         }
 
-        if (node != 0) { // If it's not the capital
+        if (node != 0) {
             fuel += (representatives + seats - 1) / seats;
         }
 
