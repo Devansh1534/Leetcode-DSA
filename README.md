@@ -45,11 +45,13 @@
 | ------- |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,4 +79,12 @@
 | ------- |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Graph
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
