@@ -24,6 +24,7 @@
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
