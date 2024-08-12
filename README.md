@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search
 |  |
@@ -127,4 +129,20 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
