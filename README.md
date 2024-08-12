@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
