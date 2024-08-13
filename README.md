@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -77,6 +78,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Database
 |  |
