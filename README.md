@@ -103,6 +103,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
