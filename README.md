@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Breadth-First Search
 |  |
