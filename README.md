@@ -24,6 +24,7 @@
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
@@ -73,6 +75,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Backtracking
@@ -155,4 +158,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
