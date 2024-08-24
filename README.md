@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
+| [1307-ugly-number-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1307-ugly-number-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1307-ugly-number-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1307-ugly-number-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
@@ -165,4 +167,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1307-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
