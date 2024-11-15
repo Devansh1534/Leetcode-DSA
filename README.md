@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -124,6 +126,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0322-coin-change) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph
