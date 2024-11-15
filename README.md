@@ -62,6 +62,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -69,12 +70,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Devansh1534/Leetcode-DSA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0883-car-fleet) |
