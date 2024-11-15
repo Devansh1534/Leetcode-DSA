@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 ## Array
