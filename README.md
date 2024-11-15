@@ -23,6 +23,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Database
 |  |
@@ -118,6 +120,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
@@ -164,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
