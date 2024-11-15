@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
@@ -84,6 +85,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Database
@@ -103,6 +105,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0139-word-break) |
