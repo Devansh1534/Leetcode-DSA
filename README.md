@@ -26,6 +26,7 @@
 | [0494-target-sum](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0735-asteroid-collision](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0456-132-pattern) |
+| [0735-asteroid-collision](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Devansh1534/Leetcode-DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -150,6 +152,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Devansh1534/Leetcode-DSA/tree/master/0921-spiral-matrix-iii) |
 ## Design
 |  |
